@@ -1,9 +1,9 @@
-# BAIN-tech
+# BAINT-tech
 
-Welcome to the official BAIN-tech repository!
+Welcome to the official BAINT-tech repository!
 
 ## Overview
-BAIN-tech is an open-source project licensed under the MIT License. This repo contains core code and resources developed by the BAIN-tech team.
+BAINT-tech is an open-source project licensed under the MIT License. This repo contains core code and resources developed by the BAINT-tech team.
 
 ## Features
 - Open-source and transparent
